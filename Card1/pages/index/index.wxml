@@ -1,0 +1,10 @@
+<!-- index.wxml -->
+<image mode="widthFix" class="ImgStyle" src="../../img/bg.png"></image>
+<view class="TitleClass">第一个小程序介绍</view>
+<view class="BodyClass">
+  <view class="BodyTitleClass">什么是小程序？</view>
+  <view>第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍</view>
+  <view>第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍</view>
+  <view class="BodyTitleClass">为什么学习开发小程序</view>
+  <view>第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍第一个小程序介绍</view>
+</view> 

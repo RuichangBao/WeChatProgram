@@ -1,0 +1,24 @@
+/**index.wxss**/
+
+/* 图片宽度铺满 */
+.ImgStyle {
+  width: 100%;
+}
+
+.TitleClass {
+  text-align: center;
+  font-size: 14px;
+  color: #999;
+}
+
+.BodyTitleClass {
+  font-size: 24px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.BodyClass {
+  padding: 30px;
+  line-height: 2;
+}
