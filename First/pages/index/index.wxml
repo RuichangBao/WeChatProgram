@@ -1,1 +1,4 @@
-Hello World
+<!-- index.wxml -->
+<view class="TitleStyle">{{Title}}!</view>
+<image mode="widthFix" class="ImgStyle" src="../../img/1.jpg"></image>
+<button bind:tap="BtnOnClick">按钮</button>
